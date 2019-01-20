@@ -1,2 +1,6 @@
 /dist
 /node_modules
+
+# ローカル環境での開発時の json-server 用。
+# データ更新をリポジトリに保存する必要がないので更新を無視する。
+db.json
